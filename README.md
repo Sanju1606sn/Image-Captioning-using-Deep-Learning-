@@ -23,11 +23,3 @@ This project implements **automatic image captioning**, combining **CNN-based en
 - Generated captions were **semantically relevant and grammatically coherent**.  
 - BLEU-4 scores demonstrated the effectiveness of both **CNN+RNN** and **Transformer-based approaches**.
 
-## ▶️ Usage
-```bash
-# Clone repo
-git clone https://github.com/TrivikramUmanath/Image-Captioning-using-Deep-Learning.git
-cd Image-Captioning-using-Deep-Learning
-
-# Open notebook and train
-jupyter notebook
